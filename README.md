@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
+## Math
+|  |
+| ------- |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->

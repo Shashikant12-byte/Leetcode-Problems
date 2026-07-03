@@ -7,6 +7,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 ## Sorting
 |  |
@@ -41,11 +42,13 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 ## Queue
 |  |
@@ -59,4 +62,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
+## Greedy
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->

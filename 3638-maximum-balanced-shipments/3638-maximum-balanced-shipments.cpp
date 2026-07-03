@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maxBalancedShipments(vector<int>& weight) {
-        int m=weight[0];
         int n=weight.size();
         int count=0;
         int l=0,r=0;

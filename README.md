@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
@@ -12,6 +13,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -24,6 +26,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -73,6 +76,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Math
 |  |

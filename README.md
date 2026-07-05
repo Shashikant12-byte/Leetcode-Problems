@@ -7,6 +7,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
@@ -77,6 +80,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Math
 |  |
@@ -87,4 +91,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->

@@ -10,6 +10,7 @@
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 ## Sorting
@@ -18,6 +19,7 @@
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |

@@ -94,6 +94,7 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

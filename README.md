@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |

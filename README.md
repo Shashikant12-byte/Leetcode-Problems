@@ -9,6 +9,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
@@ -19,6 +20,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |

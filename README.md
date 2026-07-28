@@ -24,12 +24,14 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |

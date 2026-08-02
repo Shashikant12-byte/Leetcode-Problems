@@ -14,6 +14,7 @@
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

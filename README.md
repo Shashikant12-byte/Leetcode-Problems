@@ -22,6 +22,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |

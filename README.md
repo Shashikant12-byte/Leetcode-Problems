@@ -64,6 +64,7 @@
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -135,6 +136,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
@@ -144,6 +146,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -201,6 +204,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 ## Binary Indexed Tree
 |  |
 | ------- |

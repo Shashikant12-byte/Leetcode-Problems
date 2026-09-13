@@ -16,6 +16,7 @@
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |

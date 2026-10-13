@@ -34,6 +34,7 @@
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sorting
@@ -52,6 +53,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -156,6 +158,7 @@
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Math
 |  |

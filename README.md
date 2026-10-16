@@ -18,6 +18,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
@@ -84,6 +85,7 @@
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
+| [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
@@ -271,6 +273,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |

@@ -23,6 +23,7 @@
 | [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 <!---LeetCode Topics End-->

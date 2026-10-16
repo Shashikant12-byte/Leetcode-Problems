@@ -31,6 +31,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -221,6 +222,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -272,4 +274,5 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
+| [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->

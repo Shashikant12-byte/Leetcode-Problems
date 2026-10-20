@@ -24,6 +24,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -59,6 +60,7 @@
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -153,6 +155,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
@@ -285,6 +289,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
+| [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |

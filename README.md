@@ -100,6 +100,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -191,6 +192,7 @@
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |

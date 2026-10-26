@@ -11,6 +11,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
@@ -210,6 +213,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
@@ -308,5 +312,6 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->

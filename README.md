@@ -30,6 +30,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1652-defuse-the-bomb](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1854-maximum-population-year](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
@@ -64,6 +65,7 @@
 | [1051-height-checker](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -181,6 +183,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -303,6 +306,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1854-maximum-population-year](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |

@@ -36,6 +36,7 @@
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2381-shifting-letters-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -103,6 +104,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
+| [2381-shifting-letters-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2409-count-days-spent-together](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -310,6 +312,7 @@
 | [1854-maximum-population-year](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2381-shifting-letters-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |

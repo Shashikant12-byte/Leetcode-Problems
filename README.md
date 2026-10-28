@@ -44,6 +44,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3355-zero-array-transformation-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -71,6 +72,7 @@
 | [1943-describe-the-painting](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1943-describe-the-painting) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -119,6 +121,7 @@
 | [1652-defuse-the-bomb](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -316,6 +320,7 @@
 | [2381-shifting-letters-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2485-find-the-pivot-integer](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3355-zero-array-transformation-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Ordered Set

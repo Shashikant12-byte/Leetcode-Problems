@@ -86,6 +86,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0696-count-binary-substrings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -297,6 +300,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Quickselect
 |  |
 | ------- |

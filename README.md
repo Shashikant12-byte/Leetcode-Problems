@@ -20,6 +20,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
+| [0813-largest-sum-of-averages](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0813-largest-sum-of-averages](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Greedy
@@ -311,6 +313,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
+| [0813-largest-sum-of-averages](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1109-corporate-flight-bookings) |

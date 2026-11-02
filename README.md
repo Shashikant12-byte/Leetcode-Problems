@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0179-largest-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -226,6 +227,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -297,6 +299,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |

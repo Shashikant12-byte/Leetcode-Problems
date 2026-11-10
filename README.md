@@ -52,6 +52,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3676-count-bowl-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3676-count-bowl-subarrays) |
+| [3693-climbing-stairs-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,6 +188,7 @@
 | [0813-largest-sum-of-averages](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0813-largest-sum-of-averages) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3638-maximum-balanced-shipments](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3638-maximum-balanced-shipments) |
+| [3693-climbing-stairs-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |

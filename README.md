@@ -46,6 +46,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3355-zero-array-transformation-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |

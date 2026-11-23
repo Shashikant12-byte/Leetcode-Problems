@@ -30,6 +30,7 @@
 | [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1331-rank-transform-of-an-array](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -214,6 +215,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
@@ -250,6 +252,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0731-my-calendar-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0848-shifting-letters](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1109-corporate-flight-bookings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -361,4 +365,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

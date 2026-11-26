@@ -224,6 +224,7 @@
 | [2409-count-days-spent-together](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3360-stone-removal-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -280,6 +281,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3360-stone-removal-game](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |

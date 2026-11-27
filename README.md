@@ -255,6 +255,7 @@
 | [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
@@ -368,6 +370,7 @@
 | [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -376,6 +379,7 @@
 | [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |

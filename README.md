@@ -252,6 +252,7 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
@@ -266,6 +267,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -361,12 +363,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Shashikant12-byte/Leetcode-Problems/tree/master/0994-rotting-oranges) |
